@@ -50,6 +50,7 @@ NOTES_CNN_MIREX = models('notes/2018/notes_cnn_[12].pkl')
 
 # onsets
 ONSETS_RNN = models('onsets/2013/onsets_rnn_[1-8].pkl')
+ONSETS_RNNPK = models('onsets/2018/bass_single_note_B_[1-8].pkl')
 ONSETS_BRNN = models('onsets/2013/onsets_brnn_[1-8].pkl')
 ONSETS_BRNN_PP = models('onsets/2014/onsets_brnn_pp_[1-8].pkl')
 ONSETS_CNN = models('onsets/2013/onsets_cnn.pkl')
